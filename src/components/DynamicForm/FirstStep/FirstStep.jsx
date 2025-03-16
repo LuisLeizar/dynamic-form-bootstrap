@@ -3,7 +3,7 @@ import "./FirstStep.css";
 import CardFruit from "./CardFruit";
 import { useState } from "react";
 
-export const fruits = [
+const fruits = [
     {
         id: 1,
         icon: "🍅",
