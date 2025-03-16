@@ -1,0 +1,12 @@
+.send-form {
+    display: flex;
+    justify-content: center;
+}
+
+.send-form .result {
+    background-color: #b0e9ec;
+    border-radius: 10px;
+    color: #000;
+    font-weight: 600;
+    cursor: pointer;
+}
